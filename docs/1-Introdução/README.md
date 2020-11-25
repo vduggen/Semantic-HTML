@@ -15,7 +15,7 @@ Mas você pode estar se perguntando por que utilizar o HTML Semântico, vou tem 
 - Isto vai ajudar no [SEO](https://www.tecmundo.com.br/blog/2770-o-que-e-seo-.htm) do seu site
 - Ajuda na acessibilidade do seu site
 
-Ir para [2 - Tags do HTML Semântico](../2-Tags-HTML-Semântico/2-Tags-HTML-Semântico.md)
+Ir para [2 - Tags do HTML Semântico](../2-Tags-HTML-Semântico)
 
 <h1>Refêrencias utilizados nesta página</h1>
 
