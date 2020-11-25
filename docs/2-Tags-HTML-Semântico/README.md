@@ -28,3 +28,7 @@ No exemplo abaixo podemos ver como temos cada seção representa uma seção de 
 ### **Exemplo:**
 
 ![Example](../../assets/section.png)
+
+<h1>Refêrencias utilizados nesta página</h1>
+
+- [HTML Semântico: Você sabe o que é? | Geek Blog](https://blog.geekhunter.com.br/voce-conhece-html-semantico/#O_que_e_HTML_semantico)
